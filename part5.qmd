@@ -1,3 +1,220 @@
 # Deloppgave 5: Analysere repeterte målinger
 
-<!-- Part 1: Analyzing repeated measures experiments -->
+<!-- Part 5: Analyzing repeated measures experiments -->
+
+---
+title: "Deloppgave 5"
+author: "Henrik Husdal"
+format: html
+editor: visual
+bibliography: biblography.bib
+csl: apa.csl
+---
+
+#Introduksjon
+
+Adaptasjoner i menneskekroppen til styrketrening henger sammen med en rekke faktorer, både biologiske, genetiske og ytre faktorer. Av disse finner vi treningsvolum, intensitet, valg av øvelser, hvile mellom sett, hurtigheten på utførelsen på øvelsene og hyppigheten på treningen (Ratamess et al., 2009). Genetiske disposisjoner synes å ha en betydelig innvirkning på responsen av trening (Yang et al., 2003). Styrketrening har en rekke prestasjonsmessige fordeler i idretter som stiller krav til styrke, men også utholdenhetsidrett (Rønnestad et al., 2014; Beattie et al., 2014), men også i et folkehelseperspektiv (Westcott, 2012). Styrketrening er ikke bare nyttig for prestasjon i idrett, men også for folkehelsen. Aldersbetinget muskeltap har en rekke godt dokumenterte negative helsekonsekvenser (Hurley, 2000), og styrketrening synes å ha god effekt for å motvirke dette (Westcott, 2012). Men selv om gevinsten av styrketrening virker å være stor, kan det for mange være vanskelig for mange å få dette inn i en hektisk hverdag. Derfor er det både interessant og viktig at forskere ser på sammenhengen mellom treningsvolum, muskelmasse og styrke. Dette for å eksempelvis finne ut hva som minimum må til for å få effekt.
+
+En del studier har funnet at et minimalt treningsvolum gir adaptasjoner på muskelmasse og styrke som moderat-volum (Ostrowski et al. 1997; Cannon & Marino, 2010; Mitchell et al. 2012), mens flere metaanalyser favoriserer et moderat volum (Rhea et al. 2003; Krieger, 2009, 2010; Schoenfeld et al. 2016). Med treningsvolum menes mengde styrketrening, altså hvor mye og hvor ofte. Muskelvolum måles i fettfri masse (lean body mass), og måler muskelvolum i tillegg til annen fettfri masse (bein, sener, leddbånd, indre organer etc.) I tillegg har man muskelstyrke som er hvor stor kraft en muskel eller muskelgruppe kan produsere. Ettersom forskningsresultatene er sprikende angående kravet til volum i styrketrening for å få en signifikant økning i muskelmasse og styrke, vil denne studien undersøke dette videre. Ved å sammenligne 1 vs. 3 sett under styrketrening over en 12-ukers periode vil vi se om et minimalt volum kan måle seg med et moderat volum.
+
+#Metode
+
+##Deltakere og studieoversikt
+
+Det ble rekruttert 41 mannlige og kvinnelige deltakere til studien med kriterium om å være ikke-røyker og å være mellom 18 og 40 år gammel. Eksklusjonskriterium var hemmet muskelstyrke som følge av tidligere skade, intoleranse for lokal anestesi, ha gjennomført mer enn en ukentlig styrketreningsøkt siste året og bruk av medisiner som kan påvirke adaptasjoner av treningen. På bakgrunn av å ha gjennomført mindre enn 85% av treningsprogrammet ble 7 deltakere ekskludert fra studien. Årsakene til dette var ubehag eller smerter i underekstremiteter under trening (n=5), fulgte ikke treningsprotokollen (n=1) og skade urelatert til studien (n=1). Ved studiestart var det ingen forskjeller i maksimal frivillig kontraksjon (MFK) normalisert til kroppsmasse eller antropometri mellom inkluderte og ekskluderte deltakere. Ved prøvetaking i uke 2 av biopsi og blod avsto en av de inkluderte deltakerne dette, og i tillegg ble det ikke tatt blodprøve av 3 andre deltakere ved ulike tidspunkt grunnet feil under prøvetaking. Alle inkluderte deltakere hadde tidligere erfaring med idrettsaktiviteter som eksempelvis lagidretter, langrenn og gymnastikk. Antall deltakere som rapporterte om fysisk trening utenom studien under intervensjonen (median = 2 ukentlige økter fra 0,5 til 4) var 20.
+
+##Intervensjonen
+
+Den 12 uker lange intervensjonen ble gjennomført mellom september og november. Intervensjonen besto av fullkropps styrketrening, og benøvelsene ble gjennomført separat for hvert enkelt ben. Dette for å kunne muliggjøre differensiering av treningsvolum på samme deltaker. Hvert enkelt ben til hver deltaker ble tilfeldig tildelt enten single-set eller 3-set programmet, ergo hver deltaker gjennomførte begge protokoller. Testing av muskelstyrke ved målt før og etter intervensjonen, i tillegg til uke 3, 5 og 9. Muskelbiopsi ble tatt fra begge ben fra vastus lateralis i uke 0 i hvilt tilstand, før og 1 time etter femte treningsøkt og etter intervensjonen i uke 12 i hvilt tilstand. Kroppssammensetning ble målt før etter intervensjonen. Deltakerne loggførte inntak av kosttilskudd fra uke 6, inntaket ble veid og loggført i 4 til 5 sammenhengende dager inkludert en helgedag.
+
+##Testing av muskelstyrke
+
+Ved bruk av et dynamometer (Cybex 6000, Cybex International, Medway, MA, USA) ble det gjennomført styrketest av isometrisk og isokinetisk unilateral kneesktensjon. Det ble foretatt målinger av muskelstyrke, muskeltverrsnitt, kroppssammensetning, hormoner i tillegg til muskelbiopsi i forbindelse med studien. Med kneet justert med rotasjonsaksen til dynamometeret gjennomførte deltakerne test av maksimalt isokinetisk dreiemoment ved 60°, 120° og 240° s−1 hastighet. Deltakerne ble gjennom submaksimale gjennomføringer gjort kjent med alle testens hastigheter på forhånd, og ble gitt 2 (60° s−1) og 3 forsøk (120 og 240° s−1) under selve testingen der den høyeste verdien for hver hastighet ble brukt i statiske analysene. MFK-dreiemoment ble målt ved knevinkel på 30° (full ekstensjon på 90°) etter isokinetisk testing. Instruksjon lød å presse med maksimal kraft i 5 sekunder. Med 30 sekunders hvile mellom ble deltakerne gitt 2 forsøk, der det beste ble brukt for videre analyser.
+
+Testing av 1RM i unilateral beinpress og kneekstensjon startet med spesifikk oppvarming i hver øvelse med 10, 6 og 3 repetisjoner på henholdsvis 50, 75 og 85% av antatt 1RM. 4 til 6 forsøk ble gitt for å finne 1RM, og høyeste vekt som ble løftet med full «range of motion» ble satt som 1RM etter å ha økt motstanden progressivt.
+
+Ved baseline ble både 1RM, isokinetisk og isometrisk styrketester gjennomført i 2 omganger med minst 4 dager mellom hver omgang, og de beste verdiene ble brukt i de statistiske analysene. Fra testene var det igjen minst 48 timer før og etter intervensjonen. Alle 3 testene utgjorde sammen en kombinert score for muskelstyrke.
+
+##Måling av muskelmasse og kroppsammensetning
+
+Muskeltverrsnitt av knestrekkere (vastus lateralis, medialis, intermedius og rectus femoris) ble målt før og etter intervensjonen ved bruk av MRI i samsvar med produsentens protokoll (S-Scan, Esaote Europe B.V., Maastricht, the Netherlands). Bildene ble analysert anonymt av samme forsker ved bruk av OsiriX (v.5.6, Pixmeo Sarl, Bernex, Switzerland). Tverrsnittet ble målt på nøyaktig samme sted for hver enkelt deltaker på hver test ved bruk av minst 4 påfølgende bilder. Kroppssammensetning ble fastslått før og etter intervensjon ved bruk av dual-energy X-ray absorptiometry (DXA) (Lunar Prodigy, GE Healthcare, Oslo, Norway). Det skilte 2 dager fra siste styrketest til måling av kroppssammensetning og deltakerne ble bedt om å faste og unngå krevende fysisk aktivitet siste 2 timer før måling av MRI og DXA.
+
+##Statistikk
+
+RStudio (versjon 2022.07.1) for Windows ble brukt for statistiske analyser. Verdier er presentert som gjennomsnitt ± standardavvik (SD) i faktiske tall og prosent. ANCOVA ble benyttet for å sammenligne minimalt volum (1 sett) med moderat volum (3 sett) for utslag på muskelstyrke og muskelmasse fra pre til post intervensjon. Kravet for statisitisk signifikans (alpha-level) var P \< 0,05.
+
+```{r}
+library(exscidata)
+data("dxadata"); data("strengthvolume")
+
+library(tidyverse)
+
+
+dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  print()
+```
+
+#Resultater
+
+##Kroppssammensetning
+
+```{r}
+#| echo: FALSE
+#| warning: FALSE
+#| message: FALSE
+#| include: FALSE
+
+library(exscidata)
+
+data("dxadata"); data("strengthvolume")
+
+library(tidyverse)
+library(gt)
+
+dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg ) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) 
+  
+
+
+lbm_dat <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  pivot_wider(names_from = time, 
+              values_from = lean.mass) %>%
+  mutate(lean_change = post - pre) %>%
+  mutate(lean_perc = ((post - pre) / pre) * 100) %>%
+  filter(!is.na(lean_change))
+  
+lbm_dat %>% 
+  group_by(sets) %>% 
+  summarise(mean = mean(lean_change),
+            sd = sd(lean_change),
+            mean_perc = mean(lean_perc),
+            sd_perc = sd(lean_perc)) %>%
+  mutate(sets = factor(sets, levels = c("multiple", "single"),
+                       labels = c("3 sett", "1 sett"))) %>%
+  mutate(ms = paste0(signif(mean, 3), "(", signif(sd, 3), ")")) %>%
+  mutate(ms_perc = paste0(signif(mean_perc, 3), "(", signif(sd_perc, 3), ")")) %>%
+  gt() %>% 
+  tab_header(
+    title = "Tabell 1: Gjennomsnittlig endring LBM",
+    subtitle = "Fra Pre til Post") %>% 
+  fmt_number(columns = vars(mean, sd), decimals = 0) %>% 
+  fmt_percent(columns = vars(mean_perc, sd_perc), decimals = 2) %>% 
+  cols_label(mean_perc = "AVG %", sd_perc = "SD in %") %>% 
+  cols_label(sets = "Antall sett", mean = "Mean", sd = "SD") %>%
+  cols_label(ms = "Gjennomsnitt(SD) i gram", ms_perc = "Gjennomsnitt(SD) i %") %>% 
+  cols_hide(columns = c(mean, sd, mean_perc, sd_perc)) %>% 
+  tab_footnote("Gjennomsnittlig endring i LBM for 3 og 1 sett.")
+
+```
+
+Etter 12 uker intervensjon med styrketrening viser resultatene en endring i fettfri masse på 3.32 (±4.39) for ben som utførte moderat volum (3 sett), og 2.04% (±3.71%) for ben som utførte minimalt volum (1 sett). Forskjellen mellom gruppene var signifikant, P \< 0.05.
+
+```{r}
+#| echo: FALSE
+#| warning: FALSE
+#| message: FALSE
+#| include: FALSE
+
+# Regne ut ANCOVA-test
+l1 <- lm(post ~ pre + sets, data = lbm_dat)
+summary(l1)
+plot(l1)
+```
+
+```{R}
+#| echo: FALSE
+#| warning: FALSE
+#| message: FALSE
+#| include: FALSE
+
+# Vise forandring i LBM med figur for hver deltaker
+lbm_dat_2 <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg, sex) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+   mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "3 sett", "1 sett")) %>%
+  select(participant, include, lean.mass, time, sets, sex, leg) %>%
+  group_by(participant) %>%
+  mutate(n = n(), group = factor(sets, levels = c("1 sett", "3 sett")), time = factor(time, levels = c("pre", "post")))
+
+
+lbm_dat_2 %>%
+ ggplot(aes(time, lean.mass, group = paste(participant, sets), color = group)) + geom_line() + theme_bw() +
+  labs(title = "Tabell 2: Endring i fettfri masse for hver deltaker",
+       x = "Tid",
+       y = "Fettfri masse i underekstremiteter(gram)",
+       caption = "Tabell 2: Endringer fra Pre til Post for 1 og 3 sett, sortert etter farge.")
+
+```
+
+##Muskelstyrke
+
+Etter 12 uker intervensjon med styrketrening viser resultatene en endring i maksimal muskelstyrke på 31% (±14.2) for ben som utførte moderat volum (3 sett), og 24.5% (±12.9) for ben som utførte minimalt volum (1 sett). Forskjellen mellom gruppene var signifikant, P \< 0.05.
+
+```{r}
+#| echo: FALSE
+#| warning: FALSE
+#| message: FALSE
+#| include: FALSE
+
+styrke_dat <- strengthvolume %>%
+  filter(!is.na(load)) %>%
+  group_by(exercise) %>%
+  mutate(scaled.load = load / max(load, na.rm = TRUE)) %>%
+  group_by(participant, time, sets, sex) %>%
+  summarise(combined.load = mean(scaled.load, na.rm = TRUE)) %>%
+  ungroup() %>%
+  pivot_wider(names_from = time,
+              values_from = combined.load) %>%
+  mutate(change_perc = ((post - pre) / pre) * 100)
+
+
+styrke_dat %>%    
+  filter(!is.na(post)) %>%
+  group_by(sets) %>%
+  summarise(m = mean(change_perc),
+            sd = sd(change_perc)) %>%
+  mutate(sets = factor(sets, levels = c("multiple", "single"),
+                       labels = c("3 sett", "1 sett"))) %>%
+  mutate(ms = paste0(signif(m, 3), "(", signif(sd, 3), ")")) %>%
+  gt() %>% 
+  tab_header(
+    title = "Tabell 3: Gjennomsnitlig forandring i styrke",
+    subtitle = "Oppgitt i prosent") %>% 
+  fmt_number(columns = c(m, sd), decimals = 0) %>% 
+  fmt_percent(columns = c(m, sd), decimals = 2) %>% 
+  cols_label(sets = "Antall sett", ms = "Forandring(SD)") %>% 
+  cols_hide(columns = c(m, sd)) %>% 
+  tab_footnote("Prosentvis gjennomsnitlig forandring i styrke.")
+
+```
+
+```{r}
+s1 <- lm(post ~ pre + sets, data = styrke_dat)
+summary(s1)
+plot(s1)
+```
+
+#Diskusjon
