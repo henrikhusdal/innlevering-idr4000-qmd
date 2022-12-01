@@ -1,15 +1,251 @@
 # Deloppgave 1: Beskrivende statistikk, reliabilitet og validitet, verktøy for reproduserbar dataanalyse
 
-<!-- Part 1: Descriptive statistics, reliability and validity, tools for reproducible data science -->
+***Laktatprofil løp***
 
+Vi har gjennomført laktattesting av til sammen 7 masterstudenter i aldersgruppen 23-50 år i løping på tredemølle. Det er gjennomført to tester (Pre og Post) av alle, men det er ikke gjennomført intervensjon i perioden mellom testene. Testen ble gjennomført som en laktatprofil med en standarisert trappetrinnsprotokoll der farten økte med 1,5km/t per drag til forsøkspersonen passerte en laktatkonsentrasjon høyere enn 4mmol/L. Grunnet tekniske utfordringer, ble testprotokollen (fartsøkningsintervallet) endret etter testing av to individer. Disse to er imidlertid testet likt begge ganger selv om hastighetene ikke var lik på alle trappetrinn som resten av gruppen.
+
+Det er tilstrebet å redusere antall ytre faktorer som kan påvirke testresultatene gjennom å standardisere forberedelser av testpersonene og testsituasjonen.
+
+Utstyr benyttet til analyse har vært det samme gjennom all testing, og er kalibrert mellom hver test. Bionsen er benyttet for analyse av laktat og Jaeger Oxycon Pro analyserer ventilasjon, puls, O2 forbruk.
+
+Det er kjent at hydrerings- og ernæringtilstand påvirker testresultater. Redusert energitilgjengelighet (\<30 kcal /kg fettfri masse/dag) forventes å påvirke metabolismen og prestasjon negativt. Inntak av karbohydrat i forkant av og under test, medfører økt glykogen tilgjengelighet. Lavt inntak kan medføre hypoglykemi og dårligere prestasjon. Koffeininntak i forkant av test har vist økt prestasjon, men hvis man er vant til å innta koffein daglig, bør dette også gjøres testdag, da abstinenser kan medføre hodepine og tretthet. Alkoholinntak kan påvirke hydreringstilstand og karbohydratmetabolismen og derved gi redusert prestasjon (Tanner & Gore, 2012).
+
+Testpersonene i undersøkelsen er derfor forberedt og instruert i å trene, spise og sove likt før testene. Testutstyr som sko og tøy har også vært det samme under testing.
+
+Ut over forberedelse av testperson, er det forhold ved testsituasjonen som kan påvirke resultatet. Temperatur og luftfuktighet bør tilstrebes å være lik under all testing. Andre kjente faktorer som kan påvirke testresultater er testpersonens kjennskap til testforløpet, tilbakemeldinger testpersonen får underveis, antall testpersoner i lokalet og kjønnsfordeling på disse, "dagsform" eller mentalt overskudd hos testpersonen og om testpersonen hører musikk før og under testing [@halperin2015].
+
+Testing er derfor tilstrebet gjennomført med: Testtidspunkt samme tid på døgnet. Samme testleder på pre og post test. Samme antall og kjønn tilstede ved alle tester. Ingen musikk før/under test. Tilnærmet lik tilbakemelding og engasjement fra testleder. Det er opplyst om videre hendelsesforløp før hver endring (forklart test, tempoøkninger, tid igjen osv.) Det er ikke opplyst om puls, laktat og VO2. Notert ned evt. når og hvor mye forsøkspersonen drikker/spiser og repetert ved post-test
+
+Møllen har vært innstilt på 1 % stigning, og det er kjørt 5 minutters drag med 1 minutts pause. Utgangshastighet var på 8,5 km/t, og denne ble økt med 1,5km/t per drag til FP målte over 4 mmol/L Lac.
+
+Under testing, er data samlet inn via analysemaskin for laktat (Bionsen) og Jaeger Oxycon Pro, som analyserer ventilasjon, puls, O2 forbruk. Data er hentet ut i etterkant. Innsamlede data er i tillegg sikret løpende manuelt i plotteskjema. Alle data er etterfølgende lagt inn i et excelark (Data_run_2) før videre analyse.
+
+## Statistikk
+
+Statistisk analyse er utført i RStudio 2022.07.2. Det er beregnet mean, median, standardavvik og varians av maksimale verdier pre og post. Det er beregnet standardavvik, typical error, og variasjonskoeffesient av differansen.
+
+## Deskriptive data
 
 ```{r}
-#| fig-cap: "Eksempel"
+#| echo: false
+#| message: false
+#| warning: false
 
 
-plot(rnorm(10, 10, 10))
+library(tidyverse)
+library(readxl)
+library(readr)
+library(ggplot2)
+library(gt)
+library(exscidata)
+library(tidyr)
+library(dplyr)
 
+#Importer data
+
+
+data_run_2 <- read_excel("data.run.2.xlsx") %>% 
+
+
+#Deskriptive data
+
+  
+  select(FP, Gender,Timepoint, Age, Height, Weigth, start.load, end.load, VO2.max,lac.max, HR.max, RER.max)
+
+```
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+# Deskriptive data  Boxplot
+
+data("data_run_2")
+glimpse(data_run_2)
+
+ggplot(data = data_run_2, mapping = aes(x =  Timepoint, y = lac.max)) +    
+  geom_boxplot() + geom_jitter() +
+  labs(x = "Timepoint", y= "Maksimal laktat(mmol/l)",
+       title = "Maksimal laktat")
+
+```
+
+## Resultater
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+#Tabell 1 - Mean
+
+
+data_run_2 %>% 
+  select(Timepoint,FP, VO2.max, RER.max, lac.max,end.load) %>% 
+  group_by(Timepoint) %>% 
+  summarise(lac =mean(lac.max),
+            RER = mean(RER.max),
+            VO2 = mean(VO2.max),
+            end.load = mean(end.load)) %>% 
+  gt(caption = "Tabell 1") %>% 
+  fmt_number(columns =lac,
+             decimals = 2) %>% 
+  fmt_number(columns = VO2, decimals = 0) %>% 
+  fmt_number(columns = end.load, decimals = 1) %>% 
+  fmt_number(columns = RER, decimals = 2) %>% 
+  cols_label(Timepoint = "Test",
+             lac = "Max Laktat",
+             RER = "Max RER",
+             VO2 = md("VO<sub>2max</sub><br><small>(ml min<sup>-1</sup>)"),
+             end.load = md("Max fart<br><small>(km t<sup>-1</sup>)")) %>% 
+  tab_header(title = "Gjennomsnittlige maksimale verdier")
 
 
 ```
 
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+# Tabell 2 Median
+
+  data_run_2 %>%
+  select(Timepoint,FP, VO2.max, RER.max, lac.max,end.load) %>% 
+  group_by(Timepoint) %>% 
+  summarise(lac = median(lac.max),
+            RER = median(RER.max),
+            VO2 = median(VO2.max),
+            end.load = mean(end.load)) %>% 
+  gt(caption = "Tabell 2") %>% 
+  fmt_number(columns =lac,
+             decimals = 2) %>% 
+  fmt_number(columns = VO2, decimals =0) %>% 
+  fmt_number(columns = end.load, decimals = 1) %>% 
+  fmt_number(columns = RER, decimals = 2) %>% 
+  cols_label(Timepoint = "Test",
+             lac = "Max Laktat",
+             RER = "Max RER",
+             VO2 = md("VO<sub>2max</sub><br><small>(ml min<sup>-1</sup>)"),
+             end.load = md("Max fart<br><small>(km t<sup>-1</sup>)")) %>% 
+    tab_header(title = "Medianverdier") %>% 
+    tab_footnote(footnote = "median av maksimale verdier")
+
+
+```
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+
+# Tabell 3 Standardavvik
+
+data_run_2 %>%
+  select(Timepoint,FP, VO2.max, RER.max, lac.max, end.load) %>% 
+  group_by(Timepoint) %>% 
+  summarise(lac = sd(lac.max),
+            RER = sd(RER.max),
+            VO2 = sd(VO2.max),
+            end.load = sd(end.load)) %>% 
+  gt(caption = "Tabell 3") %>% 
+  fmt_number(columns =lac,
+             decimals = 2) %>% 
+  fmt_number(columns = VO2, decimals =0) %>% 
+  fmt_number(columns = end.load, decimals = 1) %>% 
+  fmt_number(columns = RER, decimals = 2) %>% 
+  cols_label(Timepoint = "Test",
+             lac = "Max Laktat",
+             RER = "Max RER",
+             VO2 = md("VO<sub>2max</sub><br><small>(ml min<sup>-1</sup>)"),
+             end.load = md("Max fart<br><small>(km t<sup>-1</sup>)")) %>% 
+  tab_header(title = "Standardavvik") %>% 
+  tab_footnote(footnote = "SD av maksimale verdier")
+```
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+
+# Tabell 4 Varians
+
+data_run_2 %>%
+  select(Timepoint,FP, VO2.max, RER.max, lac.max,end.load) %>% 
+  group_by(Timepoint) %>% 
+  summarise(lac = var(lac.max),
+            RER = var(RER.max),
+            VO2 = var(VO2.max),
+            end.load = var(end.load)) %>% 
+  gt(caption = "Tabell 4") %>% 
+  fmt_number(columns =lac, decimals = 2) %>% 
+  fmt_number(columns = VO2, decimals = 0) %>% 
+  fmt_number(columns = end.load, decimals = 1) %>% 
+  fmt_number(columns = RER, decimals = 2) %>% 
+  cols_label(Timepoint = "Test",
+             lac = "Max Laktat",
+             RER = "Max RER",
+             VO2 = md("VO<sub>2max</sub><br><small>(ml min<sup>-1</sup>)"),
+             end.load = md("Max fart<br><small>(km t<sup>-1</sup>)")) %>%
+  tab_header(title = "VARIANS")
+
+```
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+
+#Tabell beregninger SD, TE, M og CV
+
+
+data_run_2 %>% 
+  select(FP,Timepoint,lac.max) %>% 
+        pivot_wider(names_from = Timepoint, 
+                    values_from = lac.max) %>%
+        mutate(diff = Post - Pre) %>%
+        summarise(sd = sd(diff), #SD av differanse
+                  te = sd / sqrt(2), # Total Error
+                  m = mean(c(Pre, Post)), #Gjennomsnitt av alle målinger
+                  cv = 100*(te/m))   # Korrelasjonskoeffecient
+                   
+
+```
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+
+#Grafisk fremstilling av reliabilitet
+
+data_run_2 <- read_excel("data.run.2.xlsx") %>% 
+  
+  mutate(Timepoint = factor(Timepoint,
+                            levels = c("Pre", "Post"),
+                            labels = c("Test", "Re-test")),
+         subject = factor(FP))
+    
+ggplot(data = data_run_2, aes(x = Timepoint, y = lac.max,
+                              color = FP,
+                              group = FP)) +
+geom_point() +
+  geom_line() +
+
+  labs(x = "Test",
+       y = "Maximal Laktat, mmol/l") 
+    
+```
+
+## Konklusjon
+
+Vi har valgt å gjøre beregninger ut fra høyeste målte laktat pr test. Test ble ikke gjennomført helt i henhold til protokoll, grunnet tidsnød i lab. Flere av forsøkspersonene ble testet rett hverandre, med kun 10 minutter mellom testene. Protokollen ble endret underveis, og selv om dette ikke skal påvirke forholdet mellom pre- og post-testingen er det en svakhet ved forsøket. Konstant utskiftning av testpersonell også en sentral faktor til feilkilde. Når testene utføres av forskjellig testpersonell vil dette kunne gi utslag på resultatene, og være en feilkilde for spesielt "within-subject variation" [@hopkins2000]. Eksempelvis vil resultatet på laktatprøvene avhenge av hvordan testeren tar selve prøven, hvor lang tid som brukes, og om prøven utføres korrekt. I vårt forsøk er Typical Error (TE) beregnet til 1,08. Typical Error vil indikere forskjellen i avviket fra gjennomsnittet i to gruppene. Standardavvik (sd) er beregnet til 1,53 og varasjonskoeffisient (cv) til 17%. Standardavviket er avviket fra gjennomsnittet. Variasjonskoeffesienten kan beskrives som standardavviket i forhold til gjennomsnittet i prosent. 17% anses som en stor variasjon, noe som tyder på lav reliabilitet.
+
+**Referanser**
+
+Tanner, R. K., and C. J. Gore. 2012. Physiological Tests for Elite Athletes 2nd Edition. Book. Human Kinetics. https://books.google.no/books?id=0OPIiMks58MC

@@ -3,7 +3,7 @@ project:
 
 book:
   title: "Eksamen IDR4000"
-  author: "Kandidatnummer"
+  author: "110"
   date: "2022-12-02"
   chapters:
     - index.qmd
@@ -14,7 +14,10 @@ book:
     - part5.qmd
     - references.qmd
 
-bibliography: references.bib
+bibliography: references1.bib
+csl: apa.csl
+
+
 
 crossref: 
   fig-labels: arabic
