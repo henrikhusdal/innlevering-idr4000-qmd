@@ -10,3 +10,30 @@
   author={Okasha, Samir},
   year={2016},
 collection={A Very short introduction} }
+
+@article{
+  støren2012,
+  title={Improved V[Combining Dot Above]O2max and Time Trial Performance With More High Aerobic Intensity Interval Training and Reduced Training Volume: A Case Study on an Elite National Cyclist},
+  volume={26},
+  ISSN={1064-8011},
+  url={https://journals.lww.com/nsca-jscr/fulltext/2012/10000/improved_v_combining_dot_above_o2max_and_time.12.aspx},
+  DOI={10.1519/JSC.0b013e318241deec},
+  number={10},
+  journal={The Journal of Strength & Conditioning Research},
+  author={Støren, Øyvind and Bratland-Sanda, Solfrid and Haave, Marius and Helgerud, Jan},
+  year={2012},
+  month={Oct},
+pages={2705–2711} }
+
+@article{
+  beattie2014,
+  title={The effect of strength training on performance in endurance athletes},
+  volume={44},
+  ISSN={1179-2035},
+  DOI={10.1007/s40279-014-0157-y},
+  number={6},
+  journal={Sports Medicine (Auckland, N.Z.)},
+  author={Beattie, Kris and Kenny, Ian C. and Lyons, Mark and Carson, Brian P.},
+  year={2014},
+  month={Jun},
+pages={845–865} }

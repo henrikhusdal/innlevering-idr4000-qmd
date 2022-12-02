@@ -2,3 +2,71 @@
 
 ::: {#refs}
 :::
+
+Hopkins WG. Measures of reliability in sports medicine and science. Sports Med. 2000 Jul;30(1):1-15. doi: 10.2165/00007256-200030010-00001. PMID: 10907753.
+
+Tanner, R. K., and C. J. Gore. 2012. Physiological Tests for Elite Athletes 2nd Edition. Book. Human Kinetics. https://books.google.no/books?id=0OPIiMks58MC
+
+Popper, K. (1969). Conjectures and Refutations: The Growth of Scientific Knowledge (3. utg.). London: Routledge ISBN: 978-0-7100-6507-0
+
+Bird, A. (2018). "Understanding the Replication Crisis as a Base Rate Fallacy", British Journal for the Philosophy of Science. DOI: 10.1093/bjps/axy051
+
+Okasha, S. (2016). Philosophy of Science: A Very Short Introduction (2nd ed.). Oxford: Oxford University Press. ISBN: 978-0-19-874558-7 
+
+Hempel, C.G. (1966). Scientific Inquiry: Invention and Test. I C. G. Hempel, Philosophy of Natural Science (s.3-18). Princeton: Prentice Hall. ISBN: 978-0-13-663823-0
+
+Kuang J, Yan X, Genders AJ, Granata C, Bishop DJ. An overview of technical considerations when using quantitative real-time PCR analysis of gene expression in human exercise research. PLoS One. 2018 May 10;13(5):e0196438. doi: 10.1371/journal.pone.0196438. PMID: 29746477; PMCID: PMC5944930.
+
+Wackerhage, Henning. 2014.Molecular exercise physiology: an introduction. First published.London: Routledge, Taylor et Francis Group.27 ISBN: 9780415607872
+
+Mølmen KS, Øfsteng SJ, Rønnestad BR. Block periodization of endurance training - a systematic review and meta-analysis. Open Access J Sports Med. 2019 Oct 17;10:145-160. doi: 10.2147/OAJSM.S180408. PMID: 31802956; PMCID: PMC6802561.
+
+Rønnestad BR, Hansen J, Thyli V, Bakken TA, Sandbakk Ø. 5-week block periodization increases aerobic power in elite cross-country skiers. Scand J Med Sci Sports. 2016 Feb;26(2):140-6. doi: 10.1111/sms.12418. Epub 2015 Feb 3. PMID: 25648345.
+
+García-Pallarés J, García-Fernández M, Sánchez-Medina L, Izquierdo M. Performance changes in world-class kayakers following two different training periodization models. Eur J Appl Physiol. 2010 Sep;110(1):99-107. doi: 10.1007/s00421-010-1484-9. Epub 2010 Apr 23. PMID: 20414669.
+
+McGawley K, Juudas E, Kazior Z, Ström K, Blomstrand E, Hansson O, Holmberg HC. No Additional Benefits of Block- Over Evenly-Distributed High-Intensity Interval Training within a Polarized Microcycle. Front Physiol. 2017 Jun 13;8:413. doi: 10.3389/fphys.2017.00413. PMID: 28659826; PMCID: PMC5468439.
+
+Manchado C, Cortell-Tormo JM, Tortosa-Martínez J. Effects of Two Different Training Periodization Models on Physical and Physiological Aspects of Elite Female Team Handball Players. J Strength Cond Res. 2018 Jan;32(1):280-287. doi: 10.1519/JSC.0000000000002259. PMID: 29023322.
+
+Kiely J. Periodization paradigms in the 21st century: evidence-led or tradition-driven? Int J Sports Physiol Perform. 2012 Sep;7(3):242-50. doi: 10.1123/ijspp.7.3.242. Epub 2012 Feb 16. PMID: 22356774.
+
+Hopkins WG, Marshall SW, Batterham AM, Hanin J. Progressive statistics for studies in sports medicine and exercise science. Med Sci Sports Exerc. 2009 Jan;41(1):3-13. doi: 10.1249/MSS.0b013e31818cb278. PMID: 19092709.
+
+Ratamess N, Alvar BA, Evetoch TK, Housh TJ, Kibler B, Kraemer WJ & Triplett NT (2009). American College of Sports Medicine position stand. Progression models in resistance training for healthy adults. Med Sci Sports Exerc 41, 687–708. doi: 10.1249/MSS.0b013e3181915670
+
+Yang N, MacArthur DG, Gulbin JP, Hahn AG, Beggs AH, Easteal S, North K. ACTN3 genotype is associated with human elite athletic performance. Am J Hum Genet. 2003 Sep;73(3):627-31. doi: 10.1086/377590. Epub 2003 Jul 23. PMID: 12879365; PMCID: PMC1180686.
+
+Rønnestad BR, Mujika I. Optimizing strength training for running and cycling endurance performance: A review. Scand J Med Sci Sports. 2014 Aug;24(4):603-12. doi: 10.1111/sms.12104. Epub 2013 Aug 5. PMID: 23914932.
+
+Beattie K, Kenny IC, Lyons M, Carson BP. The effect of strength training on performance in endurance athletes. Sports Med. 2014 Jun;44(6):845-65. doi: 10.1007/s40279-014-0157-y. PMID: 24532151.
+
+Westcott WL. Resistance training is medicine: effects of strength training on health. Curr Sports Med Rep. 2012 Jul-Aug;11(4):209-16. doi: 10.1249/JSR.0b013e31825dabb8. PMID: 22777332.
+
+Hurley BF, Roth SM. Strength training in the elderly: effects on risk factors for age-related diseases. Sports Med. 2000 Oct;30(4):249-68. doi: 10.2165/00007256-200030040-00002. PMID: 11048773.
+
+Ostrowski KJ, Wilson GJ, Weatherby R, Murphy PW & Lyttle AD (1997). The effect of weight training volume on hormonal output and muscular size and function. J Strength Cond Res 11, 148–154.doi: 10.1519/1533-4287(1997)011<0148:TEOWTV>2.3.CO;2
+
+Cannon J, Marino FE. Early-phase neuromuscular adaptations to high- and low-volume resistance training in untrained young and older women. J Sports Sci. 2010 Dec;28(14):1505-14. doi: 10.1080/02640414.2010.517544. PMID: 21058165.
+
+Mitchell CJ, Churchward-Venne TA, West DW, Burd NA, Breen L, Baker SK, Phillips SM. Resistance exercise load does not determine training-mediated hypertrophic gains in young men. J Appl Physiol (1985). 2012 Jul;113(1):71-7. doi: 10.1152/japplphysiol.00307.2012. Epub 2012 Apr 19. PMID: 22518835; PMCID: PMC3404827.
+
+Rhea MR, Alvar BA, Burkett LN, Ball SD. A meta-analysis to determine the dose response for strength development. Med Sci Sports Exerc. 2003 Mar;35(3):456-64. doi: 10.1249/01.MSS.0000053727.63505.D4. PMID: 12618576.
+
+Krieger JW. Single versus multiple sets of resistance exercise: a meta-regression. J Strength Cond Res. 2009 Sep;23(6):1890-901. doi: 10.1519/JSC.0b013e3181b370be. PMID: 19661829.
+
+Krieger JW. Single vs. multiple sets of resistance exercise for muscle hypertrophy: a meta-analysis. J Strength Cond Res. 2010 Apr;24(4):1150-9. doi: 10.1519/JSC.0b013e3181d4d436. PMID: 20300012.
+
+Brad J. Schoenfeld, Dan Ogborn & James W. Krieger (2017) Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis, Journal of Sports Sciences, 35:11, 1073-1082, DOI: 10.1080/02640414.2016.1210197
+
+Rønnestad BR, Egeland W, Kvamme NH, Refsnes PE, Kadi F, Raastad T. Dissimilar effects of one- and three-set strength training on strength and muscle mass gains in upper and lower body in untrained subjects. J Strength Cond Res. 2007 Feb;21(1):157-63. doi: 10.1519/00124278-200702000-00028. PMID: 17313291.
+
+McBride, Jeffrey & Blaak, John & Triplett-McBride, Travis. (2003). Effect of resistance exercise volume and complexity on EMG, strength, and regional body composition. European journal of applied physiology. 90. 626-32. 10.1007/s00421-003-0930-3. 
+
+Hammarström D, Øfsteng S, Koll L, Hanestadhaugen M, Hollan I, Apró W, Whist JE, Blomstrand E, Rønnestad BR, Ellefsen S. Benefits of higher resistance-training volume are related to ribosome biogenesis. J Physiol. 2020 Feb;598(3):543-565. doi: 10.1113/JP278455. Epub 2020 Jan 15. PMID: 31813190.
+
+
+
+
+
+

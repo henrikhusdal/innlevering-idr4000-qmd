@@ -4,21 +4,21 @@
 
 ## Introduksjon
 
-Adaptasjoner i menneskekroppen til styrketrening henger sammen med en rekke faktorer, både biologiske, genetiske og ytre faktorer. Av disse finner vi treningsvolum, intensitet, valg av øvelser, hvile mellom sett, hurtigheten på utførelsen på øvelsene og hyppigheten på treningen (Ratamess et al., 2009). Genetiske disposisjoner synes å ha en betydelig innvirkning på responsen av trening (Yang et al., 2003). Styrketrening har en rekke prestasjonsmessige fordeler i idretter som stiller krav til styrke, men også utholdenhetsidrett (Rønnestad et al., 2014; Beattie et al., 2014), men også i et folkehelseperspektiv (Westcott, 2012). Styrketrening er ikke bare nyttig for prestasjon i idrett, men også for folkehelsen. Aldersbetinget muskeltap har en rekke godt dokumenterte negative helsekonsekvenser (Hurley, 2000), og styrketrening synes å ha god effekt for å motvirke dette (Westcott, 2012). Men selv om gevinsten av styrketrening virker å være stor, kan det for mange være vanskelig for mange å få dette inn i en hektisk hverdag. Derfor er det både interessant og viktig at forskere ser på sammenhengen mellom treningsvolum, muskelmasse og styrke. Dette for å eksempelvis finne ut hva som minimum må til for å få effekt.
+Adaptasjoner i menneskekroppen til styrketrening henger sammen med en rekke faktorer, både biologiske, genetiske og ytre faktorer. Av disse finner vi treningsvolum, intensitet, valg av øvelser, hvile mellom sett, hurtigheten på utførelsen på øvelsene og hyppigheten på treningen (Ratamess et al., 2009). Genetiske disposisjoner synes å ha en betydelig innvirkning på responsen av trening (Yang et al., 2003). Styrketrening har en rekke prestasjonsmessige fordeler i idretter som stiller krav til styrke, men også utholdenhetsidrett (Rønnestad & Mujika, 2014; Beattie et al., 2014), men også i et folkehelseperspektiv (Westcott, 2012). Styrketrening er ikke bare nyttig for prestasjon i idrett, men også for folkehelsen. Aldersbetinget muskeltap har en rekke godt dokumenterte negative helsekonsekvenser (Hurley & Roth, 2000), og styrketrening synes å ha god effekt for å motvirke dette (Westcott, 2012). Men selv om gevinsten av styrketrening virker å være stor, kan det for mange være vanskelig å få dette inn i en hektisk hverdag. Derfor er det både interessant og viktig at forskere ser på sammenhengen mellom treningsvolum, muskelmasse og styrke. Dette for å eksempelvis finne ut hva som minimum må til for å få effekt.
 
-En del studier har funnet at et minimalt treningsvolum gir adaptasjoner på muskelmasse og styrke som moderat-volum (Ostrowski et al. 1997; Cannon & Marino, 2010; Mitchell et al. 2012), mens flere metaanalyser favoriserer et moderat volum (Rhea et al. 2003; Krieger, 2009, 2010; Schoenfeld et al. 2016). Rønnestad et al. (2007) gjenomførte en lignende studie som denne, og sammenlignet 1 vs. 3 sett for bein og overkropp. Funnene her var sprikende, 3 sett ga signifkant mer effekt på 1RM og muskeltverrsnitt i underkropp, mens det var ingen endring og ingen signifikant endring for henholdsvis 1RM og muskeltverrsnitt målt i overkropp. Med treningsvolum menes mengde styrketrening, altså hvor mye og hvor ofte. Muskelvolum/masse måles i fettfri masse (lean body mass), og måler muskelvolum i tillegg til annen fettfri masse (bein, sener, leddbånd, indre organer etc.). I tillegg har man muskelstyrke som er hvor stor kraft en muskel eller muskelgruppe kan produsere.
+En del studier har funnet at et minimalt treningsvolum gir adaptasjoner på muskelmasse og styrke som moderat-volum (Ostrowski et al. 1997; Cannon & Marino, 2010; Mitchell et al. 2012), mens flere metaanalyser favoriserer et moderat volum (Rhea et al. 2003; Krieger, 2009, 2010; Schoenfeld et al. 2016) Rønnestad et al. (2007) gjenomførte en lignende studie som denne, og sammenlignet 1 vs. 3 sett for bein og overkropp. Funnene her var sprikende, 3 sett ga signifkant mer effekt på 1RM og muskeltverrsnitt i underkropp, mens det var ingen endring og ingen signifikant endring for henholdsvis 1RM og muskeltverrsnitt målt i overkropp. Med treningsvolum menes mengde styrketrening, altså hvor mye og hvor ofte. Muskelvolum/masse måles i fettfri masse (lean body mass), og måler muskelvolum i tillegg til annen fettfri masse (bein, sener, leddbånd, indre organer etc.). I tillegg har man muskelstyrke som i denne studien er målt i maksimal styrke.
 
-Ettersom forskningsresultatene er sprikende angående kravet til volum av styrketrening for å få en økning i muskelmasse og styrke, vil denne studien undersøke dette videre. Ved å sammenligne 1 vs. 3 sett under styrketrening for underkropp over en 12-ukers periode vil vi se om et minimalt volum kan måle seg med et moderat volum. Ettersom majoriteten av tidligere forskning tyder på at et moderat volum er overlegent et minimalt, tar vi utgangspunkt i en hypotese om at 3 sett vil gi et signifikant forbedring av muskelstyrke og muskelmasse sammenlignet med 1 sett.
+Ettersom forskningsresultatene er sprikende angående kravet til volum av styrketrening for å få en økning i muskelmasse og styrke, vil denne studien undersøke dette videre. Ved å sammenligne 1 vs. 3 sett under styrketrening for underkropp over en 12-ukers periode med 2-3 ukentlige økter vil vi se om et minimalt volum kan måle seg med et moderat volum. Ettersom flere meta-analyser av tidligere forskning tyder på at et moderat volum er overlegent et minimalt, tar vi utgangspunkt i en hypotese om at 3 sett vil gi et signifikant forbedring av muskelstyrke og muskelmasse sammenlignet med 1 sett.
 
 ## Metode
 
 ### Deltakere og studieoversikt
 
-Det ble rekruttert 41 mannlige og kvinnelige deltakere til studien med kriterium om å være ikke-røyker og å være mellom 18 og 40 år gammel. Eksklusjonskriterium var hemmet muskelstyrke som følge av tidligere skade, intoleranse for lokal anestesi, ha gjennomført mer enn en ukentlig styrketreningsøkt siste året og bruk av medisiner som kan påvirke adaptasjoner av treningen. På bakgrunn av å ha gjennomført mindre enn 85% av treningsprogrammet ble 7 deltakere ekskludert fra studien. Årsakene til dette var ubehag eller smerter i underekstremiteter under trening (n=5), fulgte ikke treningsprotokollen (n=1) og skade urelatert til studien (n=1). Ved studiestart var det ingen forskjeller i maksimal frivillig kontraksjon (MFK) normalisert til kroppsmasse eller antropometri mellom inkluderte og ekskluderte deltakere. Ved prøvetaking i uke 2 av biopsi og blod avsto en av de inkluderte deltakerne dette, og i tillegg ble det ikke tatt blodprøve av 3 andre deltakere ved ulike tidspunkt grunnet feil under prøvetaking. Alle inkluderte deltakere hadde tidligere erfaring med idrettsaktiviteter som eksempelvis lagidretter, langrenn og gymnastikk. Antall deltakere som rapporterte om fysisk trening utenom studien under intervensjonen (median = 2 ukentlige økter fra 0,5 til 4) var 20.
+Det ble rekruttert 41 mannlige og kvinnelige deltakere til studien med kriterium om å være ikke-røyker og å være mellom 18 og 40 år gammel. Eksklusjonskriterium var hemmet muskelstyrke som følge av tidligere skade, intoleranse for lokal anestesi, ha gjennomført mer enn en ukentlig styrketreningsøkt siste året og bruk av medisiner som kan påvirke adaptasjoner av treningen. På bakgrunn av å ha gjennomført mindre enn 85% av treningsprogrammet ble 7 deltakere ekskludert fra studien. Årsakene til dette var ubehag eller smerter i underekstremiteter under trening (n=5), fulgte ikke treningsprotokollen (n=1) og skade urelatert til studien (n=1). Alle inkluderte deltakere hadde tidligere erfaring med idrettsaktiviteter som eksempelvis lagidretter, langrenn og gymnastikk. Antall deltakere som rapporterte om fysisk trening utenom studien under intervensjonen (median = 2 ukentlige økter fra 0,5 til 4) var 20.
 
 ### Intervensjonen
 
-Den 12 uker lange intervensjonen ble gjennomført mellom september og november. Intervensjonen besto av fullkropps styrketrening, og benøvelsene ble gjennomført separat for hvert enkelt ben. Dette for å kunne muliggjøre differensiering av treningsvolum på samme deltaker. Hvert enkelt ben til hver deltaker ble tilfeldig tildelt enten single-set eller 3-set programmet, ergo hver deltaker gjennomførte begge protokoller. Testing av muskelstyrke ved målt før og etter intervensjonen, i tillegg til uke 3, 5 og 9. Muskelbiopsi ble tatt fra begge ben fra vastus lateralis i uke 0 i hvilt tilstand, før og 1 time etter femte treningsøkt og etter intervensjonen i uke 12 i hvilt tilstand. Kroppssammensetning ble målt før etter intervensjonen. Deltakerne loggførte inntak av kosttilskudd fra uke 6, inntaket ble veid og loggført i 4 til 5 sammenhengende dager inkludert en helgedag.
+Den 12 uker lange intervensjonen ble gjennomført mellom september og november. Intervensjonen besto av fullkropps styrketrening, og benøvelsene ble gjennomført separat for hvert enkelt ben. Dette for å kunne muliggjøre differensiering av treningsvolum på samme deltaker. Hvert enkelt ben til hver deltaker ble tilfeldig tildelt enten 1-sett eller 3-sett programmet, ergo hver deltaker gjennomførte begge protokoller. Testing av muskelstyrke ved målt før og etter intervensjonen, i tillegg til uke 3, 5 og 9. Muskelbiopsi ble tatt fra begge ben fra vastus lateralis i uke 0 i hvilt tilstand, før og 1 time etter femte treningsøkt og etter intervensjonen i uke 12 i hvilt tilstand. Kroppssammensetning ble målt før etter intervensjonen. Deltakerne loggførte inntak av kosttilskudd fra uke 6, inntaket ble veid og loggført i 4 til 5 sammenhengende dager inkludert en helgedag.
 
 ### Testing av muskelstyrke
 
@@ -30,11 +30,11 @@ Ved baseline ble både 1RM, isokinetisk og isometrisk styrketester gjennomført 
 
 ### Måling av muskelmasse og kroppsammensetning
 
-Muskeltverrsnitt av knestrekkere (vastus lateralis, medialis, intermedius og rectus femoris) ble målt før og etter intervensjonen ved bruk av MRI i samsvar med produsentens protokoll (S-Scan, Esaote Europe B.V., Maastricht, the Netherlands). Bildene ble analysert anonymt av samme forsker ved bruk av OsiriX (v.5.6, Pixmeo Sarl, Bernex, Switzerland). Tverrsnittet ble målt på nøyaktig samme sted for hver enkelt deltaker på hver test ved bruk av minst 4 påfølgende bilder. Kroppssammensetning ble fastslått før og etter intervensjon ved bruk av dual-energy X-ray absorptiometry (DXA) (Lunar Prodigy, GE Healthcare, Oslo, Norway). Det skilte 2 dager fra siste styrketest til måling av kroppssammensetning og deltakerne ble bedt om å faste og unngå krevende fysisk aktivitet siste 2 timer før måling av MRI og DXA.
+Kroppssammensetning ble fastslått før og etter intervensjon ved bruk av dual-energy X-ray absorptiometry (DXA) (Lunar Prodigy, GE Healthcare, Oslo, Norway). Det skilte 2 dager fra siste styrketest til måling av kroppssammensetning og deltakerne ble bedt om å faste og unngå krevende fysisk aktivitet siste 2 timer før måling av MRI og DXA.
 
 ### Statistikk
 
-RStudio (versjon 2022.07.1) for Windows ble brukt for statistiske analyser. Et mål på forandring (change score) fra pre- til post-test ble regnet ut for å måle treningseffekten. En gjennomsnittlig baseline ble regnet ut fra pretest og første treningsøkt under intervensjonen (for øvelsen benpress), og ut fra dette ble endringen til post-scoren regnet ut ved bruk av en parret t-test. Endring i fettfri masse tok utgangspunkt i pre og post-testing, og ble også regnet ut ved bruk av en parret t-test. Kravet for statisitisk signifikans (alpha-level) var P \< 0,05.
+RStudio (versjon 2022.07.1) for Windows ble brukt for statistiske analyser. Et mål på forandring (change score) fra pre- til post-test ble regnet ut for å måle treningseffekten. En gjennomsnittlig baseline ble regnet ut fra pretest og første treningsøkt under intervensjonen (for øvelsen benpress), og ut fra dette ble endringen til post-scoren regnet ut ved bruk av en parret t-test. Endring i fettfri masse (muskelmasse) tok utgangspunkt i pre og post-testing, og ble også regnet ut ved bruk av en parret t-test. Kravet for statisitisk signifikans (alpha-level) var P \< 0,05.
 
 ```{r}
 #| echo: FALSE
@@ -107,7 +107,7 @@ dat_lbm <- dxadata %>%
 #| echo: FALSE
 #| warning: FALSE
 #| message: FALSE
-#| include: FALSE
+#| include: TRUE
 
 #t-test
 
@@ -115,7 +115,7 @@ t.test(dat_lbm$multiple, dat_lbm$single, paired = TRUE)
 
 ```
 
-Sammenlikning med bruk av parret t-test av endring i fettfri masse fra pre til post mellom gruppene med 1 sett og 3 sett. Økningen i 3 sett-gruppen var signifikant større enn gruppen med 1 sett (t(33) = 2.1875. P = 0.0359). P\<0.05.
+Sammenlikning med bruk av parret t-test av fettfri masse fra pre til post for gruppene med 3 sett og 1 sett. Økningen i fettfri masse for gruppene med 3-sett og 1-sett var signifikant (t(33) = 2.1875. P = 0.0359). P\<0.05.
 
 ```{r}
 #| echo: FALSE
@@ -180,16 +180,26 @@ styrke_dat2 <- strengthvolume %>%
   
         select(participant:sets, change_legpress) %>%
         pivot_wider(names_from = sets, values_from = change_legpress) %>%
+  print()
       
-   print()
+  
+```
+
+```{r}
+
+```
+
+```{r}
+#| echo: FALSE
+#| warning: FALSE
+#| message: FALSE
+#| include: TRUE
         #t-test
         t.test(styrke_dat2$multiple, styrke_dat2$single, paired = TRUE)
 ```
 
-Sammenlikning med bruk av parret t-test av endring i maksimal muskelstyrke (benpress) fra pre til post mellom gruppene med 1 sett og 3 sett. Økningen i 3-sett gruppen var signifikant større enn gruppen med 1 sett (t(29) = 2.1366. P = 0.0412. P\<0.05.
+Sammenlikning med bruk av parret t-test av endring i maksimal styrke (benpress) fra pre til post for gruppene med 3 sett og 1 sett. Økningen i maksimal styrke for gruppene med 3-sett og 1-sett var signifikant. (t(29) = 2.1366. P = 0.0412. P\<0.05.
 
 ## Diskusjon
 
-Ut fra resultatene ser vi at økningen i både fettfri masse (muskelmasse) og muskelstyrke i benpress økte signifikant mer for ben som gjennomførte moderat volum sammenlignet med ben som gjennomførte minimalt volum. Dette bekrefter altså hypotesen om at et moderat volum er overlegent et minimalt volum, ved at 3 sett ga signifikant økning i muskelmasse og muskelstyrke i forhold til 1 sett.
-
-Resultatene i denne studien bygger opp under funnene til (Rønnestad et al., 2007; Rhea et al. 2003; Krieger, 2009, 2010; Schoenfeld et al. 2016)
+Ut fra resultatene kan vi se at 2-3 ukentlige styrkeøkter over en 12-ukers periode øker muskelmasse og maksimal styrke. Til tross for at effekten var større ved å gjennomføre 3-sett sammenlignet med 1-sett, hadde begge to positiv effekt. Resultatene bygger opp under funn i tidligere forskning (Rønnestad et al., 2007; Rhea et al., 2003), men det trengs samtidig videre arbeid i forstå og avklare årsaksmekanismer og effekter i framtiden.Eksempelvis fant McBride et al. (2003) samme effekt av fler-setts trening på styrke uten at dette samsvarte med økning i muskelmasse.Det er også usikkerhet knyttet til om effekten av 1 vs. flere sett har ulik virkning i eksempelvis over- og underkropp. Tidligere studier har funnet effekt tilsvarende funn i denne studien for underkropp, uten at tilsvarende resultater fant sted i overkropp (Rønnestad et al., 2007). Så til tross for resultatene i denne studien, vil det som nevnt være nødvendig med mer forskning på temaet i framtiden.
