@@ -1,9 +1,5 @@
-# Preface {.unnumbered}
+# Forord {.unnumbered}
 
-This is a Quarto book.
+Data og reproduserbare filer med koder finnes i Git-hub mappen med lenke under:
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+https://github.com/henrikhusdal/innlevering-idr4000-qmd

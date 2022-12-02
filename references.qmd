@@ -5,6 +5,8 @@
 
 Hopkins WG. Measures of reliability in sports medicine and science. Sports Med. 2000 Jul;30(1):1-15. doi: 10.2165/00007256-200030010-00001. PMID: 10907753.
 
+Halperin I, Pyne DB, Martin DT. Threats to internal validity in exercise science: a review of overlooked confounding variables. Int J Sports Physiol Perform. 2015 Oct;10(7):823-9. doi: 10.1123/ijspp.2014-0566. Epub 2015 Mar 10. PMID: 25756869.
+
 Tanner, R. K., and C. J. Gore. 2012. Physiological Tests for Elite Athletes 2nd Edition. Book. Human Kinetics. https://books.google.no/books?id=0OPIiMks58MC
 
 Popper, K. (1969). Conjectures and Refutations: The Growth of Scientific Knowledge (3. utg.). London: Routledge ISBN: 978-0-7100-6507-0
